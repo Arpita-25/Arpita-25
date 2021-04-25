@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on to improve myself in various technical aspects.
 - 🌱 I’m currently learning DSA, CP, communication technology and Robotics. 
 - 🤔 I’m looking for help with dsa and cp.
-- 📫 How to reach me: [ampops169@gmail.com](ampops169@gmail.com)
+- 📫 How to reach me: <a style="color:#02ccff" href="mailto:ampops169@gmail.com">ampops169@gmail.com</a> 
 
 #### Languages and Tools
 <code><img height="30" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
