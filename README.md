@@ -28,3 +28,9 @@
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Arpita-25&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8">
   </a>
 </p>
+
+---
+<h3 align="center">Let your Smile brighten your day :smile:</h3>
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=algolia" alt="Refresh again to view Jokes Card" />
+</p>
